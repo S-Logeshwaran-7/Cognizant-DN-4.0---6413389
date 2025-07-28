@@ -1,0 +1,26 @@
+.shopping-container {
+  text-align: center;
+  padding: 20px;
+  max-width: 300px;
+  margin: 0 auto;
+} 
+
+.cart-list {
+  width: 100%;
+  border-collapse: collapse;
+  border: apx solid #000;
+}
+
+.cart-list th, .cart-list td {
+  border: 1px solid #120a0a;
+  padding: 10px;
+  text-align: left;
+}
+
+.cart-list th {
+  background-color: #f6f1f1;
+}
+
+.cart-list td {
+  background-color: #fff;
+}
