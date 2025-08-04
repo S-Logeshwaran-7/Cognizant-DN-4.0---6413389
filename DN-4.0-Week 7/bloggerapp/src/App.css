@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  /* justify-content: ; */
+  padding-top: 100px;
+  text-align: left;
+}
+.BookDetails {
+  padding-left: 350px;
+  padding-right: 50px;
+  
+}
+.CourseDetails {
+  padding-left:50px;
+  padding-right:50px;
+  border-left: 5px solid green;
+}
+
+.BlogDetails {
+  padding-left: 50px;
+  border-left: 5px solid green;
+}
+

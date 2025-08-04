@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+.Office{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* two columns */
+  gap: 5px;
+}
